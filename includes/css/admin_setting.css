@@ -1,0 +1,18 @@
+
+
+.wrap h1{
+    color:gray;
+    font-size: larger;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+.lefftcol{
+    width: 75%;
+    float: left;
+}
+
+.rightcol{
+    width: 25%;
+    float: right;
+}
